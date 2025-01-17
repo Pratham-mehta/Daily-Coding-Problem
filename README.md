@@ -9,15 +9,15 @@ This repository will consist of Daily Coding Problem Posted by Leetcode solved i
 [Solution]() <br>
 [Python Code]() 
 
-## Jan 3rd Problem:
+## Jan 3rd Problem: [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03)
 [Solution]() <br>
 [Python Code]() 
 
-## Jan 4th Problem:
+## Jan 4th Problem: [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-01-04)
 [Solution]() <br>
 [Python Code]() 
 
-## Jan 5th Problem:
+## Jan 5th Problem: [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05)
 [Solution]() <br>
 [Python Code]() 
 
