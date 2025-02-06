@@ -69,6 +69,10 @@ This repository will consist of Daily Coding Problem Posted by Leetcode solved i
 [Solution]() <br>
 [Python Code]() 
 
+## Feb 6th Problem : [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06)
+[Solution]() <br>
+[Python Code]() 
+
 <hr>
 
 ### Created with ♥ from Pratham Mehta
