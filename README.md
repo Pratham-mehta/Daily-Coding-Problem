@@ -71,7 +71,7 @@ This repository will consist of Daily Coding Problem Posted by Leetcode solved i
 
 ## Feb 6th Problem : [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06)
 [Solution]() <br>
-[Python Code]() 
+[Python Code](https://github.com/Pratham-mehta/Daily-Coding-Problem/blob/main/Python%20Solution/Feb%206.py) 
 
 <hr>
 
